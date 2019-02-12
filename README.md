@@ -34,7 +34,7 @@ Data used in this notebook are "listings.csv", "calendar.csv", "neighbourhoods.c
 
 ## Results 
 
-The main findings of the code can be found at the post available [here](https://www.google.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@nongnoochroongpiboonsopit/what-will-you-see-in-airbnb-when-planning-for-your-next-trip-to-boston-d9b4b99d939a).
 
 
 ## Licensing, Authors, Acknowledgements 
