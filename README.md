@@ -1,10 +1,5 @@
 ##  Installation 
 
-Download the listed Airbnb data of Boston, Massachusetts, United States which was compiled on 17 November 2018 from http://insideairbnb.com/get-the-data.html and unzip them if needed
-* listings.csv
-* calendar.csv.gz
-* neighbourhoods.csv
-
 Below are python libraries that are required to run this code using Python versions 3.*:
 * numpy
 * pandas
@@ -29,8 +24,6 @@ Below are questions that I would like to better understand about Boston's Airbnb
 
 The [airbnb_boston_2018](./airbnb_boston_2018.ipynb) notebook contains all steps in this process and markdown cells were used to assist in walking through the thought process for individual steps.
 
-Data used in this notebook are "listings.csv", "calendar.csv", "neighbourhoods.csv", and they are not included in this project but you can download them from http://insideairbnb.com/get-the-data.html and search for data of Boston, Massachusetts, United States that was compiled on 17 November 2018.
-
 
 ## Results 
 
@@ -39,6 +32,7 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements 
 
-Data used in this project was downloaded from http://insideairbnb.com/get-the-data.html.  You can find the Licensing for the data and other descriptive information there. 
+Data files used in this project were downloaded from http://insideairbnb.com/get-the-data.html and they are data for Boston, Massachusetts, United States which was compiled on 17 November 2018.  
+You can find the Licensing for the data and other descriptive information there. 
 
 This project is [MIT licensed](./LICENSE).
